@@ -16,3 +16,9 @@ Now, adding some Code:
 initial_list = []
 initial_list[0] = "test"
 ```
+
+### Creating some lists:
+
+- [X] Creating some initial content on Github
+- [] Learn More about GitHub
+- [] Excel at Git & GitHub
